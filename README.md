@@ -1,10 +1,10 @@
 #SOBRE MIM
 
-- 👋 Hi, I’m @evelyneduarda086
-- 👀 Estou aprendendo
-- 🌱Estou aprendendo a programar 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi, eu sou **@evelyneduarda086**
+- 👀 Atualmente estou aprendendo a usar o github
+- 🌱 Estou procurando colaborar
+- 💞️ Como voce pode chegar até mim **@evelyn.eduarda.santos@escola.pr.gov.br**
+
 
 <!---
 evelyneduarda086/evelyneduarda086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
